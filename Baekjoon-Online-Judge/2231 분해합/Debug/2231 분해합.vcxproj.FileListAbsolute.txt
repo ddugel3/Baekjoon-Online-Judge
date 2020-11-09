@@ -1,0 +1,2 @@
+D:\source\백준\2231 분해합\Debug\2231 분해합.exe
+D:\source\백준\2231 분해합\Debug\2231 분해합.pdb

@@ -1,0 +1,2 @@
+D:\source\백준\2908 상수\Debug\2908 상수.exe
+D:\source\백준\2908 상수\Debug\2908 상수.pdb

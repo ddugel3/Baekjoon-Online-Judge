@@ -1,0 +1,48 @@
+#include<stdio.h>
+#include<vector>
+#include<queue>
+#include<algorithm>
+using namespace std;
+const int SZ = 1005;
+int visit1[SZ];
+int visit2[SZ];
+vector<int> graph[SZ];
+queue<int> q;
+void dfs(int n){
+	visit1[n]=1;
+	printf("%d ",n);
+	int l = graph[n].size();
+	for(int i=0;i<l;i++){
+		int nxt = graph[n][i];
+		if(visit1[nxt]==1) continue;
+		dfs(nxt);
+	}
+	return;
+}
+void bfs(int stt){
+	q.push(stt); visit2[stt]=1;
+	while(!q.empty()){
+		int f = q.front(); q.pop();
+		printf("%d ",f);
+		int l = graph[f].size();
+		for(int i=0;i<l;i++){
+			int nxt = graph[f][i];
+			if(visit2[nxt]==1) continue;
+			q.push(nxt); visit2[nxt]=1;
+		}
+	}
+	return;
+}
+int main(void){
+	int n,m,c; scanf("%d %d %d",&n,&m,&c);
+	for(int i=0;i<m;i++){
+		int x,y; scanf("%d %d",&x,&y);
+		graph[x].push_back(y);
+		graph[y].push_back(x);
+	}
+	for(int i=1;i<=n;i++) sort(graph[i].begin(),graph[i].end());
+	dfs(c);
+	printf("\n");
+	bfs(c);
+	return 0;
+}

@@ -1,0 +1,2 @@
+D:\source\백준\2798 블랙잭\Debug\2798 블랙잭.exe
+D:\source\백준\2798 블랙잭\Debug\2798 블랙잭.pdb

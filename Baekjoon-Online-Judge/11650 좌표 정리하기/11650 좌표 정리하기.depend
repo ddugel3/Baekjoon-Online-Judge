@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546599996 source:c:\users\dduge\source\repos\백준\11650 좌표 정리하기\main.cpp
+	<stdio.h>
+	<utility>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546491979 source:c:\users\dduge\source\repos\백준\1927 최소 힙\main.cpp
+	<stdio.h>
+	<string.h>
+	<queue>
+

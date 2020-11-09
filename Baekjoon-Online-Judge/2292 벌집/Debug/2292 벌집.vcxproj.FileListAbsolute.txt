@@ -1,0 +1,2 @@
+D:\source\백준\2292 벌집\Debug\2292 벌집.exe
+D:\source\백준\2292 벌집\Debug\2292 벌집.pdb

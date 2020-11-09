@@ -1,0 +1,2 @@
+D:\source\백준\5522 카드 게임\Debug\5522 카드 게임.exe
+D:\source\백준\5522 카드 게임\Debug\5522 카드 게임.pdb

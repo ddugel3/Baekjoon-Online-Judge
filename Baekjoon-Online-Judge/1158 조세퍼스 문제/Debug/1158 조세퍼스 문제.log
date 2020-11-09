@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\dduge\source\repos\백준\1158 조세퍼스 문제\소스.cpp(19): warning C4717: 'jo': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  1158 조세퍼스 문제.vcxproj -> C:\Users\dduge\source\repos\백준\1158 조세퍼스 문제\Debug\1158 조세퍼스 문제.exe

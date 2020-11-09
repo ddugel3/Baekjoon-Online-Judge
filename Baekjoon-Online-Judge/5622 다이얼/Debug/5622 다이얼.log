@@ -1,0 +1,4 @@
+﻿  5622 다이얼.cpp
+D:\source\백준\5622 다이얼\5622 다이얼.cpp(10,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\source\백준\5622 다이얼\5622 다이얼.cpp(7,6): warning C4101: 'arr' :참조되지 않은 지역 변수입니다.
+  5622 다이얼.vcxproj -> D:\source\백준\5622 다이얼\Debug\5622 다이얼.exe

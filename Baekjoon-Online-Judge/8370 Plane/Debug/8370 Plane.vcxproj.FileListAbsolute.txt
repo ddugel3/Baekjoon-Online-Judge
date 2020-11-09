@@ -1,0 +1,2 @@
+D:\source\백준\8370 Plane\Debug\8370 Plane.exe
+D:\source\백준\8370 Plane\Debug\8370 Plane.pdb

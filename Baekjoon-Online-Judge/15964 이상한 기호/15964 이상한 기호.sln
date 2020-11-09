@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15964 이상한 기호", "15964 이상한 기호.vcxproj", "{1BE132D1-6700-43DD-A4A5-A4E31CA63E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE132D1-6700-43DD-A4A5-A4E31CA63E08}.Debug|x64.ActiveCfg = Debug|x64
+		{1BE132D1-6700-43DD-A4A5-A4E31CA63E08}.Debug|x64.Build.0 = Debug|x64
+		{1BE132D1-6700-43DD-A4A5-A4E31CA63E08}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BE132D1-6700-43DD-A4A5-A4E31CA63E08}.Debug|x86.Build.0 = Debug|Win32
+		{1BE132D1-6700-43DD-A4A5-A4E31CA63E08}.Release|x64.ActiveCfg = Release|x64
+		{1BE132D1-6700-43DD-A4A5-A4E31CA63E08}.Release|x64.Build.0 = Release|x64
+		{1BE132D1-6700-43DD-A4A5-A4E31CA63E08}.Release|x86.ActiveCfg = Release|Win32
+		{1BE132D1-6700-43DD-A4A5-A4E31CA63E08}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ECE02A7-D2EA-4814-A2B6-8F49AD5C1557}
+	EndGlobalSection
+EndGlobal

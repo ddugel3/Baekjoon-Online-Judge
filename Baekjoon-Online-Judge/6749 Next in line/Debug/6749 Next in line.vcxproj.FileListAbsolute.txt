@@ -1,0 +1,2 @@
+D:\source\백준\6749 Next in line\Debug\6749 Next in line.exe
+D:\source\백준\6749 Next in line\Debug\6749 Next in line.pdb

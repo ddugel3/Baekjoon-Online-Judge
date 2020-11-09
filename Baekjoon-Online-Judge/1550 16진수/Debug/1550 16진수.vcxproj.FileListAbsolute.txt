@@ -1,0 +1,2 @@
+D:\source\백준\1550 16진수\Debug\1550 16진수.exe
+D:\source\백준\1550 16진수\Debug\1550 16진수.pdb

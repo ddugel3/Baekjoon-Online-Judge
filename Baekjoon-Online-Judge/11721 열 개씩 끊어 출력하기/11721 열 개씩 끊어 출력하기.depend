@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548300025 source:c:\users\dduge\source\repos\백준\11721 열 개씩 끊어 출력하기\main.cpp
+	<stdio.h>
+	<string.h>
+

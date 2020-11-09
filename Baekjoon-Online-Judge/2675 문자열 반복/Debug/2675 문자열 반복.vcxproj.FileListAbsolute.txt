@@ -1,0 +1,2 @@
+D:\source\백준\2675 문자열 반복\Debug\2675 문자열 반복.exe
+D:\source\백준\2675 문자열 반복\Debug\2675 문자열 반복.pdb

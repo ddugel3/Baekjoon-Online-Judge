@@ -1,0 +1,2 @@
+D:\source\백준\5622 다이얼\Debug\5622 다이얼.exe
+D:\source\백준\5622 다이얼\Debug\5622 다이얼.pdb

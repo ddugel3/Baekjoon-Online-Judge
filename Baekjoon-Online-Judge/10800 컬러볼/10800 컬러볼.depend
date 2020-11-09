@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555332980 source:c:\users\dduge\source\repos\백준\10800 컬러볼\main.cpp
+	<stdio.h>
+	<algorithm>
+	<vector>
+	<utility>
+

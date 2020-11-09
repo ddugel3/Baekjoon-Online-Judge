@@ -1,0 +1,23 @@
+﻿  2667 단지번호붙이기.cpp
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(5): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(5): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(7): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(7): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(7): error C2146: 구문 오류: ')'이(가) 'm' 식별자 앞에 없습니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(7): error C3646: 'm': 알 수 없는 재정의 지정자입니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(7): error C2059: 구문 오류: ')'
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(9): error C2062: 예기치 않은 'int' 형식입니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(13): error C2065: 'arr': 선언되지 않은 식별자입니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(17): error C2065: 'arr': 선언되지 않은 식별자입니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(13): warning C4473: 'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(13): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+  c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(13): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(17): warning C4473: 'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(17): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+  c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(17): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+c:\users\dduge\source\repos\백준\2667 단지번호붙이기\2667 단지번호붙이기\2667 단지번호붙이기.cpp(17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.

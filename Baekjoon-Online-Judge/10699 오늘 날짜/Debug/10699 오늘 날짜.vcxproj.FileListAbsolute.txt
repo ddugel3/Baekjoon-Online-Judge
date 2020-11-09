@@ -1,0 +1,2 @@
+D:\source\백준\10699 오늘 날짜\Debug\10699 오늘 날짜.exe
+D:\source\백준\10699 오늘 날짜\Debug\10699 오늘 날짜.pdb
