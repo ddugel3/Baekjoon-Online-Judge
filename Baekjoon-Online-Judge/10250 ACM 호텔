@@ -1,0 +1,9 @@
+for _ in range(int(input())):
+    h,w,n = map(int,input().split())
+    x = n %h
+    y = n//h+1
+    if x == 0:
+        x = h
+    if x%h == 0:
+        y -= 1
+    print(x*100+y)
