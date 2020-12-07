@@ -10,7 +10,7 @@ int main(){
         parent[i] = getchar();    getchar();
         left[i] = getchar();    getchar();
         right[i] = getchar();    getchar();
-    }
+    } 
     for(int i=0;i<N;i++){
         if(left[i]!='.')
             res[left[i]-'A']=5;
